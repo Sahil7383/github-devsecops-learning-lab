@@ -430,19 +430,3 @@ In this lab, we learned:
 This lab establishes the foundation for all future GitHub Actions learning.
 
 ---
-
-## ⏭️ Next Lab
-
-### 📌 Lab 02 - Understanding Workflow Triggers
-
-Topics:
-
-- `push`
-- `pull_request`
-- `workflow_dispatch`
-- Branch-specific triggers
-- Path-based triggers
-
-Goal:
-
-Learn when and how workflows are executed based on repository events.
